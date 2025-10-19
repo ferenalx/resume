@@ -32,10 +32,8 @@ College of Information and Communications Technology (CICT)
 - Conducted manual testing to ensure app reliability and usability, supporting faster communication between residents and barangay officials during emergencies.  
 ---
 ## PROJECTS
-**Emergency Android Application for Barangay Catmon**  
-- Built with Android Studio and Java, integrated with Google Firebase for cloud-based real-time synchronization.  
-- Implemented core emergency reporting features to connect residents with barangay officials.  
-- Conducted manual testing to validate functionality, reliability, and user experience.  
+**Employee of the Month Web App for Sutherland Global Services**  
+- TBA
 ---
 ## SKILLS
 - Web Development: HTML, CSS, JavaScript, React.js (responsive and accessible design)  
