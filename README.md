@@ -10,8 +10,10 @@ Bocaue, Bulacan
 **CX Consultant**  
 *Sutherland Global Services*  
 Clark Freeport Zone | 10/01/2025 – PRESENT  
-- Developed functional software solutions by applying application development best practices.  
-- Supported software testing and QA automation to improve reliability and ensure quality.  
+- Analyze customer journeys to identify pain points and opportunities for improvement.
+- Develop and implement strategies to boost satisfaction, loyalty, and retention.
+- Gather and interpret customer feedback to guide business decisions.
+- Collaborate with teams to optimize processes and enhance overall customer experience.
 ---
 ## INTERNSHIP
 **I.T. Intern (Paid, On-site)**  
