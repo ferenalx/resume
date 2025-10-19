@@ -7,7 +7,7 @@ rondina.ch@gmail.com | +63-954-403-4628 | [ferenalx](https://github.com/ferenalx
 
 **CX Consultant**  
 *Sutherland Global Services*  
-Clark Freeport Zone | 09/02/2024 – 12/16/2024  
+Clark Freeport Zone | 10/01/2025 – PRESENT  
 - Developed functional software solutions by applying application development best practices.  
 - Supported software testing and QA automation to improve reliability and ensure quality.  
 
