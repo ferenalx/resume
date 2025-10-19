@@ -34,7 +34,7 @@ College of Information and Communications Technology (CICT)
 ## PROJECTS
 **Employee of the Month Web App for Sutherland Global Services**  
 - TBA
-- **iroz 4.0 for Sutherland Global Services**  
+**iroz 4.0 for Sutherland Global Services**  
 - TBA
 ---
 ## SKILLS
