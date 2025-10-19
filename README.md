@@ -16,7 +16,7 @@ Clark Freeport Zone | 10/01/2025 – PRESENT
 - Collaborate with teams to optimize processes and enhance overall customer experience.
 ---
 ## INTERNSHIP
-**I.T. Intern (Paid, On-site)**  
+**I.T. Trainee (Paid, On-site)**  
 *Citco International Support Services Limited – Philippine Branch*  
 Clark Freeport Zone | 09/02/2024 – 12/16/2024  
 - Developed functional software solutions by applying application development best practices.  
