@@ -32,10 +32,8 @@ College of Information and Communications Technology (CICT)
 - Conducted manual testing to ensure app reliability and usability, supporting faster communication between residents and barangay officials during emergencies.  
 ---
 ## PROJECTS
-**Employee of the Month Web App for Sutherland Global Services**  
-- TBA
-**iroz 4.0 for Sutherland Global Services**  
-- TBA
+**Employee of the Month Web App for Sutherland Global Services**
+**iroz 4.0 for Sutherland Global Services**
 ---
 ## SKILLS
 - Web Development: HTML, CSS, JavaScript, React.js (responsive and accessible design)  
