@@ -32,9 +32,9 @@ College of Information and Communications Technology (CICT)
 - Conducted manual testing to ensure app reliability and usability, supporting faster communication between residents and barangay officials during emergencies.  
 ---
 ## PROJECTS
-**Employee of the Month Web App for SGS**
+1. EOTM for SGS
+2. iroz 4.0 for SGS
 
-**iroz 4.0 for SGS**
 ---
 ## SKILLS
 - Web Development: HTML, CSS, JavaScript, React.js (responsive and accessible design)  
