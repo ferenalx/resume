@@ -32,8 +32,8 @@ College of Information and Communications Technology (CICT)
 - Conducted manual testing to ensure app reliability and usability, supporting faster communication between residents and barangay officials during emergencies.  
 ---
 ## PROJECTS
-1. EOTM for SGS
-2. iroz 4.0 for SGS
+1. SGS - Employee of the Month Web App
+2. SGS - iRoz 3.4
 
 ---
 ## SKILLS
