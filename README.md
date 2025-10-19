@@ -1,11 +1,8 @@
 # CHESTER FERENAL RONDINA
 ---
 rondina.ch@gmail.com
-
-+63-954-403-4628
-
++63-9544034628
 [ferenalx](https://github.com/ferenalx)
-
 Bocaue, Bulacan
 
 ---
