@@ -3,19 +3,23 @@ rondina.ch@gmail.com | +63-954-403-4628 | [ferenalx](https://github.com/ferenalx
 
 ---
 
-## INTERNSHIP EXPERIENCE
+## EXPERIENCE
+
+**CX Consultant**  
+*Sutherland Global Services*  
+Clark Freeport Zone | 09/02/2024 – 12/16/2024  
+- Developed functional software solutions by applying application development best practices.  
+- Supported software testing and QA automation to improve reliability and ensure quality.  
+
+---
+
+## INTERNSHIP
 
 **I.T. Intern (Paid, On-site)**  
 *Citco International Support Services Limited – Philippine Branch*  
 Clark Freeport Zone | 09/02/2024 – 12/16/2024  
 - Developed functional software solutions by applying application development best practices.  
 - Supported software testing and QA automation to improve reliability and ensure quality.  
-
-**Front-End Developer Intern (Remote)**  
-*Accenture Philippines*  
-03/22/2024 – 05/23/2024  
-- Trained in modern web development tools and practices: HTML, CSS, JavaScript, React.js.  
-- Collaborated in a team-based development environment to deliver practical and functional solutions.  
 
 ---
 
