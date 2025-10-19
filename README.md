@@ -1,4 +1,4 @@
-# CHESTER FERENAL RONDINA
+# Chester Ferenal Rondina
 ---
 rondina.ch@gmail.com |
 +63-9544034628 |
