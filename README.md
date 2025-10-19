@@ -1,5 +1,9 @@
 # CHESTER FERENAL RONDINA
-rondina.ch@gmail.com | +63-954-403-4628 | [ferenalx](https://github.com/ferenalx) | Bocaue, Bulacan  
+rondina.ch@gmail.com
++63-954-403-4628
+[ferenalx](https://github.com/ferenalx)
+Bocaue, Bulacan
+
 ---
 ## EXPERIENCE
 **CX Consultant**  
