@@ -9,7 +9,7 @@ Bocaue, Bulacan
 ## EXPERIENCE
 **CX Consultant**  
 *Sutherland Global Services*  
-Clark Freeport Zone | 10/01/2025 – PRESENT  
+Clark Freeport Zone | 10/01/2025 – 11/01/2025
 - Analyze customer journeys to identify pain points and opportunities for improvement.
 - Develop and implement strategies to boost satisfaction, loyalty, and retention.
 - Gather and interpret customer feedback to guide business decisions.
@@ -32,8 +32,7 @@ College of Information and Communications Technology (CICT)
 - Conducted manual testing to ensure app reliability and usability, supporting faster communication between residents and barangay officials during emergencies.  
 ---
 ## PROJECTS
-1. SGS - Employee of the Month Web App
-2. SGS - iRoz 3.4
+1. Student Debt System
 
 ---
 ## SKILLS
