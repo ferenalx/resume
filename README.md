@@ -37,6 +37,7 @@ College of Information and Communications Technology (CICT)
 
 ---
 ## SKILLS
+- CX: Customer Service Advocate (Scam and Dispute Division)
 - Web Development: HTML, CSS, JavaScript, React.js (responsive and accessible design)  
 - Cloud Computing: AWS (IAM, VPC, EC2, S3, Lambda) – secure and scalable infrastructure  
 - Programming: Java, Python, C++ – flexible and adaptable across languages  
