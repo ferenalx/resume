@@ -9,7 +9,7 @@ Bocaue, Bulacan
 ## EXPERIENCE
 **CX Consultant**  
 *Sutherland Global Services*  
-Clark Freeport Zone | 10/01/2025 – 11/01/2025
+Pampanga | 10/01/2025 – 11/01/2025
 - Analyze customer journeys to identify pain points and opportunities for improvement.
 - Develop and implement strategies to boost satisfaction, loyalty, and retention.
 - Gather and interpret customer feedback to guide business decisions.
@@ -20,7 +20,8 @@ Clark Freeport Zone | 10/01/2025 – 11/01/2025
 *Citco International Support Services Limited – Philippine Branch*  
 Clark Freeport Zone | 09/02/2024 – 12/16/2024  
 - Developed functional software solutions by applying application development best practices.  
-- Supported software testing and QA automation to improve reliability and ensure quality.  
+- Supported software testing and QA automation to improve reliability and ensure quality.
+- PHP 25,000.00 allowance per month
 ---
 ## EDUCATION
 **Bulacan State University**  
